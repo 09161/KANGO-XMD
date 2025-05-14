@@ -21,11 +21,11 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || '𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿' 
+global.botname = process.env.BOT_NAME || 'Promise-𝙈𝘿' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '2349161974630' 
 
 //-----------------[ OWNER NAME ]------------------//
 
@@ -58,7 +58,7 @@ global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿"
+global.wm = process.env.GL_WM || "> ©Promise-MD"
 
 //---------------------[ REPLIES ]-----------------------//
 
